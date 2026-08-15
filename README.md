@@ -4,7 +4,7 @@ I am a B.com (Hons) student interested in Financial Modeling, Financial Analysis
 
 This repository contains my self-initiated finance projects developed using Excel and other analytical tools.
 
-## 📂 Project
+## 📂 Projects
 
 ### 1. Lenskart – 3-Statement Financial Model
 A comprehensive 3-statement financial model covering:
