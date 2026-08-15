@@ -1,20 +1,22 @@
-# Lenskart – 3-Statement Financial Model
+# Welcome to my Finance Projects Portfolio.
 
-A self-initiated financial modelling project analysing Lenskart's historical performance and forecasting future financials.
+I am a B.com (Hons) student interested in Financial Modeling, Financial Analysis, FP&A , and Corporate Finance.
 
-## Key Components
-- Historical financial analysis
+This repository contains my self-initiated finance projects developed using Excel and other analytical tools.
+
+## 📂 Project
+
+### 1. Lenskart – 3-Statement Financial Model
+A comprehensive 3-statement financial model covering:
+
 - Income Statement
 - Balance Sheet
 - Cash Flow Statement
-- Forecast assumptions
-- Working capital analysis
-- Debt schedule
+- Historical financial analysis
 - Financial projections
+- Key assumptions
+- Supporting schedules
+- Integrated 3-statement model
 
-## Tools
-Microsoft Excel | Financial Modelling | Financial Analysis
+**Tools:** Microsoft Excel
 
-## Disclaimer
-This is a self-initiated educational project. Forecast assumptions are independently developed and do not represent Lenskart's internal forecasts. 
-There is slightly difference in Operating Profit and Profit from operation in Income Statement and Cash Flow because of unavailability of sufficient information.  
